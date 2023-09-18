@@ -18,12 +18,12 @@
     <ClCompile Include="BinaryTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Tree.cpp">
+    <ClCompile Include="BinTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Tree.h">
+    <ClInclude Include="BinTree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

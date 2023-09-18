@@ -128,10 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BinaryTree.cpp" />
-    <ClCompile Include="Tree.cpp" />
+    <ClCompile Include="BinTree.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Tree.h" />
+    <ClInclude Include="BinTree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
